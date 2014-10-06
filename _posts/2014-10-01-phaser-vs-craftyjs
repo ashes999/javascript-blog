@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Phaser.io vs. CraftyJS"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+
+What are some strengths of Phaser vs. CraftyJS?
+
+## Commonalities
+
+Both frameworks have a lot in common:
+
+- Natively create web games
+- Can go mobile (via PhoneGap)
+- Sprites (rotation, alpha)
+- Spritesheets (animation)
+- AABB and more complex collision detection
+- Audio support (OGG, MP3)
+- Actively deevloped
