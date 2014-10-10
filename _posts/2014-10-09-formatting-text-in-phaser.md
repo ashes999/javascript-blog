@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Formatting Text in Phaser"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+
 There's a great Phaser tutorial here on [making your first game in phaser](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game), including downloadable sample code. It provides really useful sample code.
 
 Unfortunately, the text formatting changed since the tutorial (which used Phaser 2.0.1 -- the current version is 2.1.1). The tutorial suggests you set the font like so:
