@@ -13,7 +13,7 @@ Cookies come to mind, but cookies are limited to 4kb each (x20 cookies = 80kb ma
 
 As of 2013, there are two prominent options: HTML5 Web Storage and IndexedDB.
 
-### HTML5 Web Storage
+### HTML5 Web Storage (LocalStorage)
 HTML5 Web Storage is an old standard. It works [across almost all browsers](http://caniuse.com/namevalue-storage) (including older ones). It allows you to save up to 5MB (at least) on the client-side, and sports a really simple API:
 
 {% highlight javascript %}
